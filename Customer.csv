@@ -1,0 +1,3 @@
+Cid,Name,Gender,Contact,Email,Bill_Amt,Items
+201,S.Dineshkumar,Male,9685741232,dineshkumar@gmail.com,1958.25,"[{""name"": ""Javascript Book"", ""qty"": 1, ""price"": 575.0}, {""name"": ""DSA Book"", ""qty"": 1, ""price"": 600.0}, {""name"": ""AI Fundamentals Book"", ""qty"": 1, ""price"": 690.0}]"
+202,S.Karthikeyan,Male,7485962130,skarthikeyan21@gmail.com,2052.75,"[{""name"": ""AI Fundamentals Book"", ""qty"": 1, ""price"": 690.0}, {""name"": ""Machine Learning Book"", ""qty"": 1, ""price"": 675.0}, {""name"": ""Data Analytics Book"", ""qty"": 1, ""price"": 590.0}]"
