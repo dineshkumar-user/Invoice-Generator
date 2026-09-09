@@ -6,7 +6,7 @@ Features
 Authentication:
 * Simple login system
 * Default credentials
-
+  
 Product Management:
 * View all products
 * Add new products
