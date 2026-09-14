@@ -1,5 +1,4 @@
 INVOICE GENERATOR SYSTEM USING PYTHON
-
 A Streamlit-based Invoice Generator application that allows admins to manage products, customers, sales, and generate professional PDF invoices.
 Features
 
